@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Genopfrisning2
 {
-    //Throws da der altid er en chance for at filen ikke findes
+    //Throws, da der altid er en chance for at filen ikke findes
     public static void main(String[] args) throws FileNotFoundException
     {
         //Opgave 2
