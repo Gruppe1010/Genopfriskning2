@@ -28,8 +28,13 @@ public class Genopfrisning2
                 Arrays.asList(p,p1,p2)
         );
 
-        System.out.println(personList);
+        //System.out.println(personList);
         Collections.sort(personList);
-        System.out.println(personList);
+        for(Person per : personList)
+        {
+            System.out.println(per + ", ");
+        }
+
+        //System.out.println(personList);
     }
 }
