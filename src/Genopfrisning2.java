@@ -22,7 +22,7 @@ public class Genopfrisning2
         //Opgave 3
         Person p = new Person("Vibe", 1.78, 25);
         Person p1 = new Person("Tobias", 1.80, 33);
-        Person p2 = new Person("Rasmus", 1.81, 33);
+        Person p2 = new Person("Rasmus", 1.80, 33);
 
         ArrayList<Person> personList = new ArrayList<>(
                 Arrays.asList(p,p1,p2)
